@@ -1,5 +1,5 @@
 <!-- ![Tonton Tobi working hard](https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif) -->
-<img src="https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif" height=17% width=17% />
+<img src="https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif" height=20% width=20% />
 <!-- <img 
     style="display: block; 
            margin-left: ;
