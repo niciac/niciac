@@ -1,14 +1,13 @@
 <!-- ![Tonton Tobi working hard](https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif) -->
-
-<img 
+<img src="https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif" height=17% width=17% />
+<!-- <img 
     style="display: block; 
            margin-left: ;
            margin-right: ;
-           width: 30%;"
+           width: 15%;"
     src="https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif" 
     alt="Tonton Tobi working hard">
-</img>
-
+</img> -->
 <!-- <img 
     style="display: block; 
            margin-left: auto;
@@ -17,7 +16,6 @@
     src="https://tenor.com/view/tonton-tobi-working-hard-work-typing-gif-12395872.gif" 
     alt="Our logo">
 </img> -->
-
 &nbsp;
 
 <!-- ### - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" length="20px"> Hi, I’m @niciac. I currently work as a test engineer, analysing image data captured using CMOS image sensors. -->
