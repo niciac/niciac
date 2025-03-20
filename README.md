@@ -73,14 +73,14 @@ Hi, I'm @niciac. I'm a continuous learner with a keen interest in Python, Data A
 </div>
 
 &nbsp;
-<div align="center">
+<!--<div align="center">
 
 ## 📫 Contact Me
 
 
 Twitter: [@niciac27](https://twitter.com/niciac27)
 
-</div>
+</div>-->
 <!---
 niciac/niciac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
