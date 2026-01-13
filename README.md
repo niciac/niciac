@@ -1,3 +1,9 @@
+## Hi, I'm Nicolas 👋🏼
+
+Bioinformatician | Data Science & Machine Learning
+
+---
+
 ## About Me
 
 I'm a continuous learner focused on applying data science and machine learning to solve complex problems. Currently at The Jackson Laboratory, I specialize in building reproducible data analysis pipelines with emphasis on code quality and maintainability. I'm particularly interested in exploring machine learning applications in scientific domains and developing computational approaches to biological data analysis.
